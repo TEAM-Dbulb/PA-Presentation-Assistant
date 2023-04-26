@@ -1,0 +1,3 @@
+[submodule "Presentation-Assistant"]
+	path = Presentation-Assistant
+	url = https://huggingface.co/spaces/SRankChatGpt/Presentation-Assistant
