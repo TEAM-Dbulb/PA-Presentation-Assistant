@@ -29,7 +29,7 @@
 ## PPT2Script
 ![PPT2Script_GUIDE1](./image/PPT2Script_GUIDE1.png)
 ---
-![PPT2Script_GUIDE1](./image/PPT2Script_GUIDE1.png)
+![PPT2Script_GUIDE2](./image/PPT2Script_GUIDE2.png)
 
 > 서비스 관련 문의는 Github Issue 및 Huggingface Community로 부탁드립니다!    
 피드백 및 버그 신고는 언제나 환영입니다 😄
