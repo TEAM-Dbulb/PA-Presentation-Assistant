@@ -1,6 +1,9 @@
 # PPT 및 스크립트 생성 서비스
 > PA!(Presentation Assistant) v1.0.0 - Text2PPT & PPT2Script 서비스
 
+> [PA!(Presentation Assistant)-LLaMA2 v1.1.0 - Text2PPT & PPT2Script Service(Only English)](https://huggingface.co/spaces/Hyeonseo/Presentation-Assistant-LLaMA2)    
+> **LLaMA2 모델을 활용한 PPT 및 스크립트 생성 서비스**입니다.
+
 ## [PA!(Presentation Assistant)](https://huggingface.co/spaces/SRankChatGpt/Presentation-Assistant)
 > 파!🥬 PA! (Presentation Assistant)는 PPT 제작 및 프레젠테이션 지원 Text2PPT & PPT2Script 서비스입니다.   
 사용자가 입력한 내용을 기반으로 PPT를 제작하고, 프레젠테이션 스크립트를 제공하여 프레젠테이션 역량을 향상시킵니다.   
